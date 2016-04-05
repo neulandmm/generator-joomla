@@ -1,0 +1,15 @@
+{
+
+    "name": "neulandmm/joomla-skeleton",
+	"scripts": {
+		"pre-update-cmd": [
+			"./scripts/installJoomla.bat"
+		],
+		"post-update-cmd": [
+			"./scripts/installTemplate.bat"
+		],
+
+    },
+	"require": {
+	}
+}
