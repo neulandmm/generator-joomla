@@ -1,2 +1,2 @@
-# joomla-skeleton
-Skeleton Joomla Installation with some Default Templates
+# generator-joomla
+A Yeoman Generator for easy Joomla Installation and Template Setup
