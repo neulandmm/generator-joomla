@@ -1,0 +1,17 @@
+{
+  "name": "generator-joomla",
+  "version": "0.1.0",
+  "description": "",  
+  "author": "NeulandMM",
+  "files": [
+    "app",
+    "templates"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2",
+	"string": "^3.3.1"
+  }
+}
